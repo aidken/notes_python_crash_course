@@ -1,2 +1,1 @@
-# notes_python_crash_course
-My reading notes of Python Crash Course the second edition.
+# My reading notes of [Python Crash Course the second edition](https://nostarch.com/pythoncrashcourse2e).
